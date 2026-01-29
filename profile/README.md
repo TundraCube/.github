@@ -2,7 +2,7 @@
 
 > **"Cold Logic. Structured Intelligence. Built for the Permafrost."**
 
-![Tundra Cube Banner](banner.jpg)
+![Tundra Cube Banner](https://raw.githubusercontent.com/TundraCube/.github/main/profile/banner.jpg)
 
 Welcome to **Tundra Cube**, the central operations hub for experimental AI, robust side projects, and the documentation of digital expeditions. We believe that the largest problems (The Mammoth) are best solved through rigid, geometric clarity (The Cube).
 
