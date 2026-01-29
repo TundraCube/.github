@@ -2,7 +2,7 @@
 
 > **"Cold Logic. Structured Intelligence. Built for the Permafrost."**
 
-![Tundra Cube Banner](profile/banner.jpg)
+![Tundra Cube Banner](banner.jpg)
 
 Welcome to **Tundra Cube**, the central operations hub for experimental AI, robust side projects, and the documentation of digital expeditions. We believe that the largest problems (The Mammoth) are best solved through rigid, geometric clarity (The Cube).
 
@@ -14,6 +14,15 @@ Tundra Cube is a specialized laboratory and digital archive. Our mission is buil
 
 1. **The Expedition:** Shipping high-performance side projects. Whether it's an AI-powered agent, a web utility, or a complex system architecture, we build tools designed to survive and thrive in the modern tech landscape.
 2. **The Knowledge Glacial:** A dedicated space for "Lessons Learned." We don't just ship code; we archive the journey. Every challenge, bug, and breakthrough is documented here to ensure our logic remains as solid as permafrost.
+
+---
+
+## 🛠️ The Methodology: Geometric Clarity
+
+In the Tundra, ambiguity is a hazard. We utilize the **Cube Framework**:
+*   **Encapsulation:** Every expedition is bounded by clear geometric constraints.
+*   **Modularity:** Logic units are designed as interlocking blocks, resistant to environmental erosion.
+*   **Precision:** We favor mathematical certainty over speculative expansion. Even the largest Mammoth is moved one step at a time, guided by the Architect's compass.
 
 ---
 
